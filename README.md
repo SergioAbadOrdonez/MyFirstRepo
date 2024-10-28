@@ -1,2 +1,2 @@
-# test
+# MyFirstRepo
 This is my first repo.
